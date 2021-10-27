@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Eat The Burger",
-        "description": "Project description.",
+        "description": "Javascript, Handlebars, CSS",
         "github": "https://github.com/XavierG13/burger",
         "deploy": "https://still-depths-05478.herokuapp.com/burgers",
         "img": "https://github.com/XavierG13/React-Portfolio/blob/4033dc6821bbaeacc407399036649245ff337cba/react-portfolio/src/assets/Images/devourdaburger.png?raw=true"
@@ -22,6 +22,22 @@
         "github": "https://github.com/XavierG13/Team-Profile-Generator",
         "deploy": "",
         "img": "https://github.com/XavierG13/React-Portfolio/blob/4033dc6821bbaeacc407399036649245ff337cba/react-portfolio/src/assets/Images/teamprofilegen.png?raw=true"
+    },
+    {
+        "id": 4,
+        "title": "ReadMe Generator",
+        "description": "Project description.",
+        "github": "https://github.com/XavierG13/README-Generator",
+        "deploy": "",
+        "img": "https://github.com/XavierG13/React-Portfolio/blob/4033dc6821bbaeacc407399036649245ff337cba/react-portfolio/src/assets/Images/readme-img.png?raw=true"
+    },
+    {
+        "id": 4,
+        "title": "ReadMe Generator",
+        "description": "Project description.",
+        "github": "https://github.com/XavierG13/README-Generator",
+        "deploy": "",
+        "img": "https://github.com/XavierG13/React-Portfolio/blob/4033dc6821bbaeacc407399036649245ff337cba/react-portfolio/src/assets/Images/readme-img.png?raw=true"
     },
     {
         "id": 4,

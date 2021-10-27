@@ -3,8 +3,8 @@ import { Container, Nav, Navbar, Offcanvas } from "react-bootstrap";
 
 export default function index() {
   return (
-    <Navbar bg="light" expand={false}>
-      <Container fluid>
+    <Navbar expand={false}>
+      <Container>
         <Navbar.Brand id="navbar__name">Xavier Guzman</Navbar.Brand>
         <Navbar.Toggle aria-controls="offcanvasNavbar" />
         <Navbar.Offcanvas

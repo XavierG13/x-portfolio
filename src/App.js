@@ -8,6 +8,7 @@ import Home from "./pages/Home";
 // Components Tags
 import Navbar from "./components/Navbar/index.js";
 import Footer from "./components/Footer/index.js";
+import Projects from "./pages/Projects";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Navbar />
         <Switch>
           <Route exact path={["/", "/home"]} component={Home} />
+          <Route exact path="/projects" component={Projects} />
         </Switch>
         <Footer />
       </Router>

@@ -8,7 +8,7 @@ import react from "../../assets/images/react.png";
 import mongodb from "../../assets/images/mongodb.png";
 import mysql from "../../assets/images/mysql.png";
 
-export default function TechStack() {
+export default function index() {
   return (
     <Row>
       <h1 className="section__title">

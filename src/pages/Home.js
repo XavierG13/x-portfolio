@@ -5,8 +5,8 @@ import resume from "../assets/images/ResumeXG.pdf";
 
 import { Container, Figure, Row } from "react-bootstrap";
 
-import TechStack from "../components/Languages/TechStack.js";
-import Contact from "../components/Contact/Contact";
+import TechStack from "../components/Languages/index.js";
+import Contact from "../components/Contact/index";
 
 export default function Home() {
   return (

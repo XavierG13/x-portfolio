@@ -1,7 +1,7 @@
 import React from "react";
 import { Col } from "react-bootstrap";
 
-export default function ProjectItems(props) {
+export default function index(props) {
   return (
     <section id="projects">
       <Col className="project__list">

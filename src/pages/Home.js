@@ -1,7 +1,7 @@
 import React from "react";
 
 import x__photo from "../assets/images/xavierguzman.png";
-import resume from "../assets/images/XavierGuzmanResume.pdf";
+import resume from "../assets/images/ResumeXG.pdf";
 
 import { Container, Figure, Row } from "react-bootstrap";
 

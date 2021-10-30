@@ -85,7 +85,7 @@ export default function Contact() {
         </Col>
       </Row>
       <Row className="form-row">
-        <Col>
+        <Col lg={6}>
           <input
             type="text"
             name="subject"
@@ -108,7 +108,7 @@ export default function Contact() {
         </Col>
       </Row>
       <Row className="form-row">
-        <Col>
+        <Col lg={6}>
           <Form.Control
             as="textarea"
             rows={6}

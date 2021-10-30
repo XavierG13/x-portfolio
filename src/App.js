@@ -5,7 +5,6 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 // Pages Tags
 import Home from "./pages/Home";
 import Projects from "./pages/Projects";
-import Contact from "./components/Contact/Contact";
 
 // Components Tags
 import Navbar from "./components/Navbar/index.js";

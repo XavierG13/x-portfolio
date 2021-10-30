@@ -1,5 +1,6 @@
 import React from "react";
 import x__logo from "../../assets/images/x.svg";
+import resume from "../../assets/images/ResumeXG.pdf";
 
 export default function index() {
   return (
@@ -48,13 +49,13 @@ export default function index() {
             Email
           </a>
           <a
-            href="./assets/images/XavierGuzmanResume.pdf"
+            href={resume}
+            rel="noreferrer"
             className="
               footer__social--link
               link__hover-effect link__hover-effect--white
             "
             target="_blank"
-            download
           >
             Resume
           </a>

@@ -3,9 +3,10 @@ import React from "react";
 import x__photo from "../assets/images/xavierguzman.png";
 import resume from "../assets/images/XavierGuzmanResume.pdf";
 
-import { Col, Container, Figure, Row } from "react-bootstrap";
+import { Container, Figure, Row } from "react-bootstrap";
 
 import TechStack from "../components/Languages/TechStack.js";
+import Contact from "../components/Contact/Contact";
 
 export default function Home() {
   return (
@@ -59,6 +60,9 @@ export default function Home() {
       </section>
       <section id="languages">
         <TechStack />
+      </section>
+      <section id="contact-form">
+        <Contact />
       </section>
     </div>
   );

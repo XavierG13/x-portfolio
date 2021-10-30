@@ -1,5 +1,5 @@
 import React from "react";
-import { Col, Container, Row } from "react-bootstrap";
+import { Col } from "react-bootstrap";
 
 export default function ProjectItems(props) {
   return (

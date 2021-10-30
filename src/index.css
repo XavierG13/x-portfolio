@@ -72,11 +72,13 @@ section:nth-child(odd) {
 /*=== Home/About Styling ===*/
 
 #home-page,
-#project-page,
-#contact-page {
+#project-page {
   min-height: 100vh;
 }
 
+#contact-form__info {
+  height: 300px;
+}
 
 #about-me {
   display: flex;
@@ -316,6 +318,19 @@ section:nth-child(odd) {
   color: #fff;
 }
 
+/*=== Contact Styling ===*/
+
+#contact-form {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 100%;
+  height: 50%;
+  padding: 25px;
+}
+
+.submit-btn {
+  width: 100%;
+}
 
 /*=== Small phones, tablets, and large smartphones ===*/
 
